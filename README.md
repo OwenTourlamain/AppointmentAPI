@@ -55,6 +55,10 @@ This appliction requires a Python 3 installation, it has been tested working wit
 
 To install dependancies run `pip install -r requirements.txt` (Note: depending on your Python installation you may need to run `pip3` instead).
 
+## Testing
+
+To run the test suite, run `pytest` in the root of the repository. 
+
 ## Running
 
 To launch the application, run `python main.py`.
